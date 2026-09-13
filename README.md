@@ -1,5 +1,7 @@
 # Vayris Website
 
+**Live Website:** [https://vayris-website.vercel.app/](https://vayris-website.vercel.app/)
+
 This repository contains the source code for the landing page of **Vayris** — an open-source, local-first AI desktop agent.
 
 ## Deployment
